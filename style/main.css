@@ -361,13 +361,8 @@ hr {
   .tile.tile-128 .tile-inner {
     color: #f59563;
     background: url(../Tilesets/6.jpg);
-    font-size: 25px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-128 .tile-inner {
-       color: #f59563
-        background: url(../Tilesets/7.jpg)
-        background-size: 100% 100%;
-        font-size: 40px; } }
+    background-size: 100% 100%;
+    font-size: 25px;} }
   .tile.tile-256 .tile-inner {
     color: #f59563;
     background:url(../Tilesets/8.jpg);
